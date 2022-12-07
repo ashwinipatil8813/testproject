@@ -1,0 +1,81 @@
+body{
+    margin: 5px;
+    padding: 0;
+}
+
+.section-1{
+background-color: #f09d27;
+}
+.moving-text{
+    background-color: #f09d27;
+}
+.section-2{
+    background-color:#f09d27 ;
+}
+.map-chart{
+border: 1px solid green;
+border-radius: 10px;
+}
+.section-3{
+    background-color: #FF9900;
+}
+.container-1{
+    background-color: #ffc48e;
+}
+.heading h6{
+    font-size: 13px;
+    font-weight: 800;
+}
+.label {
+    font-size: 13px;
+    font-weight: 800;  
+}
+.label-1{
+    font-size: 13px;
+    font-weight: 800;  
+}
+.button{
+    font-size: 11px;
+    font-weight: 800;   
+}
+ul li{
+    font-size: 11px;
+    font-weight: 800;
+}
+.sugession{
+    font-size: 11px;
+    font-weight: 800;
+}
+.url-1{
+    text-align: center;
+    justify-content: center;
+    margin-left: 30px;
+}
+.text{
+    text-decoration: none;
+    font-size: 13px;
+}
+.section-4{
+    background-color: #fbce6a;
+    height: 250px;
+    
+}
+.footer p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    font-size: .7rem;
+    line-height: .75;
+    text-align: center;
+    font-weight: 500;
+    
+}
+.imp-sugession{
+    font-size: 13px;
+    color: red;
+    margin-left: 90px;
+    
+}
+blockquote{
+    padding-top: 20px;
+}
